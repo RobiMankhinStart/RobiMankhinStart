@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/robi.leo.47/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robi-mankhin-608b7b271/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@robiMankhinDev) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/robi-mankhin)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mankhinrobi@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/robi.leo.47/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robi-mankhin-608b7b271/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@robiMankhinDev) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/robi-mankhin)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mankhinrobi@gmail.com)
 
 # 💻 Tech Stack:
 
