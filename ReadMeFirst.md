@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-👋 Hi, I'm Robi — a beginner JavaScript developer 🚀 on a mission to build <br> better tech experiences and grow a strong career in the tech industry.<br><br>🌱 Learning Journey<br>📚 Currently I am learning React, Redux, and other modern web technologies <br> and 🧠 focused on improving my skills by building clean, structured, and <br> interactive web applications.<br><br>🛠️ Working on small projects to strengthen my frontend development skills<br><br>👨‍💻 Practicing daily to level up my understanding of real-world web development.<br><br>🎯 Goals<br>🔍 Build a solid foundation in full-stack development<br><br>🚀 Contribute to open-source projects<br><br>💼 Land my first role in the tech industry as a junior developer<br><br><br>
+👋 Hi, I'm Robi — a beginner JavaScript developer 🚀 on a mission to build better tech experiences and <br> grow a strong career in the tech industry.<br><br>🌱 Learning Journey<br>📚 Currently I am learning React, Redux, and other modern web technologies and 🧠 focused on improving <br> my skills by building clean, structured, and interactive web applications.<br><br>🛠️ Working on small projects to strengthen my frontend development skills<br><br>👨‍💻 Practicing daily to level up my understanding of real-world web development.<br><br>🎯 Goals<br>🔍 Build a solid foundation in full-stack development<br><br>🚀 Contribute to open-source projects<br><br>💼 Land my first role in the tech industry as a junior developer<br><br><br>
 
 ## 🌐 Socials:
 
